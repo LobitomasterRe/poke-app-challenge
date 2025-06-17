@@ -1,0 +1,199 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "bulbasaur.svg",
+      "evolutions": [
+        {
+          "name": "Ivysaur",
+          "type": "Grass/Poison",
+          "image": "ivysaur.svg"
+        },
+        {
+          "name": "Venusaur",
+          "type": "Grass/Poison",
+          "image": "venusaur.svg"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "charmander.svg",
+      "evolutions": [
+        {
+          "name": "Charmeleon",
+          "type": "Fire",
+          "image": "charmeleon.svg"
+        },
+        {
+          "name": "Charizard",
+          "type": "Fire/Flying",
+          "image": "charizard.svg"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "squirtle.svg",
+      "evolutions": [
+        {
+          "name": "Wartortle",
+          "type": "Water",
+          "image": "wartortle.svg"
+        },
+        {
+          "name": "Blastoise",
+          "type": "Water",
+          "image": "blastoise.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "image": "pikachu.svg",
+      "evolutions": [
+        {
+          "name": "Raichu",
+          "type": "Electric",
+          "image": "raichu.svg"
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "image": "jigglypuff.svg",
+      "evolutions": [
+        {
+          "name": "Wigglytuff",
+          "type": "Normal/Fairy",
+          "image": "wigglytuff.svg"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "image": "gengar.svg",
+      "evolutions": []
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "machop.svg",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "machoke.svg"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "machamp.svg"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "image": "vulpix.svg",
+      "evolutions": [
+        {
+          "name": "Ninetales",
+          "type": "Fire",
+          "image": "ninetales.svg"
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "image": "geodude.svg",
+      "evolutions": [
+        {
+          "name": "Graveler",
+          "type": "Rock/Ground",
+          "image": "graveler.svg"
+        },
+        {
+          "name": "Golem",
+          "type": "Rock/Ground",
+          "image": "golem.svg"
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "image": "abra.svg",
+      "evolutions": [
+        {
+          "name": "Kadabra",
+          "type": "Psychic",
+          "image": "kadabra.svg"
+        },
+        {
+          "name": "Alakazam",
+          "type": "Psychic",
+          "image": "alakazam.svg"
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "machop.svg",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "machoke.svg"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "machamp.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "type": "Normal",
+      "image": "ditto.svg",
+      "evolutions": []
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "image": "eevee.svg",
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "type": "Water",
+          "image": "vaporeon.svg"
+        },
+        {
+          "name": "Jolteon",
+          "type": "Electric",
+          "image": "jolteon.svg"
+        },
+        {
+          "name": "Flareon",
+          "type": "Fire",
+          "image": "flareon.svg"
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "image": "snorlax.svg",
+      "evolutions": []
+    }
+  ]
+}
